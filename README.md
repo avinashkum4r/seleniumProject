@@ -7,5 +7,5 @@
 4. You are good to go.
 
 
-**- Add first available book in the search from amazon to the cart (Automated amazon cart).
-- Implemented using selenium with python.**
+- Add first available book in the search from amazon to the cart (Automated amazon cart).
+- Implemented using selenium with python.
